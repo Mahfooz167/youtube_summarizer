@@ -49,7 +49,7 @@ This project shows real-world **Generative AI Engineering skills**:
 ---
 
 ## 🚀 Live Demo
-🔗 [https://mahfooz167-textsummarizer.hf.space](https://45b81dd19398c2cc91.gradio.live/)
+🔗 [https://mahfooz167-textsummarizer.hf.space](https://99aa944be0a5e2d891.gradio.live)
 
 ## ✨ Features
 
